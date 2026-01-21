@@ -111,7 +111,7 @@ These results suggest that Malaysia’s vegetation cover is expected to remain l
 ### Option 1: Run with existing dataset (recommended)
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Prediction-of-Vegetation-Indices.git
+git clone https://github.com/rigelyinwun/Prediction-of-Vegetation-Indices.git
 cd Prediction-of-Vegetation-Indices
 ````
 
